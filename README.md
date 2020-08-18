@@ -10,3 +10,4 @@ Title: The Weather Application
         Netlify
     Team challenge : solo
 check your weather here - https://ouna-bilegma.github.io/weather-app/
+:snowflake: :cyclone: :snowman: :zap: :sunny: :umbrella: :cloud:
